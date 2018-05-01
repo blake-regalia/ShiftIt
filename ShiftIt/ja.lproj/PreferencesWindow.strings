@@ -50,6 +50,15 @@
 /* Class = "NSTextFieldCell"; title = "Center"; ObjectID = "561"; */
 "561.title" = "センタリング";
 
+/* Class = "NSTextFieldCell"; title = "Left Third"; ObjectID = "562"; */
+"562.title" = "Left Third";
+
+/* Class = "NSTextFieldCell"; title = "Center Third"; ObjectID = "563"; */
+"563.title" = "Center Third";
+
+/* Class = "NSTextFieldCell"; title = "Right Third"; ObjectID = "564"; */
+"564.title" = "Right Third";
+
 /* Class = "NSTextFieldCell"; title = "ShiftIt App"; ObjectID = "583"; */
 "583.title" = "ShiftIt App";
 

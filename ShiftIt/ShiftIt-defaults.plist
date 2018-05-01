@@ -9,9 +9,9 @@
 	<key>axdriver_includeDrawers</key>
 	<true/>
 	<key>blKeyCode</key>
-	<integer>20</integer>
+	<integer>43</integer>
 	<key>blModifiers</key>
-	<integer>1835008</integer>
+	<real>3932160</real>
 	<key>bottomKeyCode</key>
 	<integer>125</integer>
 	<key>bottomMargin</key>
@@ -19,13 +19,17 @@
 	<key>bottomModifiers</key>
 	<integer>3932160</integer>
 	<key>brKeyCode</key>
-	<integer>21</integer>
+	<integer>44</integer>
 	<key>brModifiers</key>
-	<integer>1835008</integer>
+	<real>3932160</real>
 	<key>centerKeyCode</key>
 	<integer>8</integer>
 	<key>centerModifiers</key>
 	<integer>1835008</integer>
+	<key>ctKeyCode</key>
+	<integer>30</integer>
+	<key>ctModifiers</key>
+	<real>3932160</real>
 	<key>fixedSizeHeightDelta</key>
 	<integer>28</integer>
 	<key>fixedSizeWidthDelta</key>
@@ -43,7 +47,11 @@
 	<key>leftMargin</key>
 	<integer>0</integer>
 	<key>leftModifiers</key>
-	<integer>3932160</integer>
+	<real>3932160</real>
+	<key>ltKeyCode</key>
+	<integer>33</integer>
+	<key>ltModifiers</key>
+	<real>3932160</real>
 	<key>marginsEnabled</key>
 	<false/>
 	<key>maximizeKeyCode</key>
@@ -60,6 +68,10 @@
 	<integer>15</integer>
 	<key>rightModifiers</key>
 	<integer>3932160</integer>
+	<key>rtKeyCode</key>
+	<integer>42</integer>
+	<key>rtModifiers</key>
+	<real>3932160</real>
 	<key>screenSizeDelta</key>
 	<real>6.25</real>
 	<key>shiftItshowMenu</key>
@@ -67,19 +79,19 @@
 	<key>sizeDeltaType</key>
 	<integer>3003</integer>
 	<key>tlKeyCode</key>
-	<integer>18</integer>
+	<integer>37</integer>
 	<key>tlModifiers</key>
-	<integer>1835008</integer>
+	<real>3932160</real>
 	<key>topKeyCode</key>
 	<integer>126</integer>
 	<key>topMargin</key>
 	<integer>0</integer>
 	<key>topModifiers</key>
-	<integer>3932160</integer>
+	<real>3932160</real>
 	<key>trKeyCode</key>
-	<integer>19</integer>
+	<integer>41</integer>
 	<key>trModifiers</key>
-	<integer>1835008</integer>
+	<real>3932160</real>
 	<key>windowSizeDelta</key>
 	<integer>10</integer>
 	<key>zoomKeyCode</key>

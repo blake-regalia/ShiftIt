@@ -15,6 +15,9 @@
 "Bottom Left" = "左下寄せ";
 "Bottom Right" = "右下寄せ";
 "Center" = "センタリング";
+"Left Third" = "Left Third";
+"Center Third" = "Center Third";
+"Right Third" = "Right Third";
 "Toggle Zoom" = "ズームの切り替え";
 "Maximize" = "最大化";
 "Toggle Full Screen" = "フルスクリーンの切り替え";

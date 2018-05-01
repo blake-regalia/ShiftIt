@@ -195,6 +195,9 @@ static NSString *hotkeyIdentifiers[] = {
     @"br",
     NULL,
     @"center",
+    @"lt"
+    @"ct"
+    @"rt"
     @"zoom",
     @"maximize",
     @"fullScreen",
@@ -219,7 +222,7 @@ static NSString *hotkeyIdentifiers[] = {
     NSString* identifier = hotkeyIdentifiers[row];
     if (identifier == NULL)
         return 1;
-    return 23;
+    return 26;
 }
 
 - (NSView *)tableView:(NSTableView *)tableView

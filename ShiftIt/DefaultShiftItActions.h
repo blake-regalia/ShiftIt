@@ -34,6 +34,9 @@ const extern SimpleWindowGeometryChangeBlock shiftItBottomLeft;
 const extern SimpleWindowGeometryChangeBlock shiftItBottomRight;
 const extern SimpleWindowGeometryChangeBlock shiftItFullScreen;
 const extern SimpleWindowGeometryChangeBlock shiftItCenter;
+const extern SimpleWindowGeometryChangeBlock shiftItThirdsLeft;
+const extern SimpleWindowGeometryChangeBlock shiftItThirdsCenter;
+const extern SimpleWindowGeometryChangeBlock shiftItThirdsRight;
 
 @interface IncreaseReduceShiftItAction : AbstractWindowGeometryShiftItAction {
  @private

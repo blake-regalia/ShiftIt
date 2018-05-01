@@ -15,6 +15,9 @@
 "Bottom Left" = "Bottom Left";
 "Bottom Right" = "Bottom Right";
 "Center" = "Center";
+"Left Third" = "Left Third";
+"Center Third" = "Center Third";
+"Right Third" = "Right Third";
 "Toggle Zoom" = "Toggle Zoom";
 "Maximize" = "Maximize";
 "Toggle Full Screen" = "Toggle Full Screen";
